@@ -5,4 +5,3 @@
 - [Chronologie](../chronologie.md)
 - [Pertinence Historique](../pertinence.md)
 - [Conclusion](../conclusion.md)
-- [Ses documents](../documents.pdf)
