@@ -1,7 +1,10 @@
 # Project-du-John-Lusk
 <p align="right">Par: Will Kuntze</p>
 <p align="right">Date: 10/11/2025</p>
+
 ## Introduction
+this is some text!
+
 ---
 
 <a href="/README.md">
