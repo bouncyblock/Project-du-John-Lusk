@@ -12,6 +12,12 @@ Une série de pages qui retracent l'histoire de John Lusk pendant la Seconde Gue
 
 ---
 
+<a href="/README.md">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://cloud-c4m75tmer-hack-club-bot.vercel.app/0back.svg">
+    <img align="left" width="70" src="https://cloud-c4m75tmer-hack-club-bot.vercel.app/0back.svg" />
+  </picture>
+</a>
 
 <p align="right">
   <em>
