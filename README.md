@@ -3,11 +3,11 @@ Une série de pages qui retracent l'histoire de John Lusk pendant la Seconde Gue
 
 # Table des matières
 
-1. [section one](/guide/introduction.md)
-1. [section two](/guide/cpu/cpu.md)
-2. [section three](/guide/writing-code/multitude.md)
-3. [section four](/guide/math/number-systems.md)
-4. [section five](/guide/resources.md)
+1. [Introduction](/introduction.md)
+2. [Biographie](/biographie.md)
+3. [Chronologie](/chronologie.md)
+4. [Pertinence Historique](/pertinence.md)
+5. [Conclusion](/conclusion.md)
 
 ---
 
@@ -16,7 +16,7 @@ Une série de pages qui retracent l'histoire de John Lusk pendant la Seconde Gue
   <em>
     <b>
       <a href="/guide/introduction.md">
-        section one →
+        Introduction →
       </a>
     </b>
   </em>
