@@ -8,6 +8,7 @@ Une série de pages qui retracent l'histoire de John Lusk pendant la Seconde Gue
 3. [Chronologie](/chronologie.md)
 4. [Pertinence Historique](/pertinence.md)
 5. [Conclusion](/conclusion.md)
+6. [Ses documents](/documents.pdf)
 
 ---
 
