@@ -16,7 +16,7 @@ Une série de pages qui retracent l'histoire de John Lusk pendant la Seconde Gue
 <p align="right">
   <em>
     <b>
-      <a href="/guide/introduction.md">
+      <a href="/introduction.md">
         Introduction →
       </a>
     </b>
