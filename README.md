@@ -1,4 +1,7 @@
 # Project-du-John-Lusk
+<p align="right">Par: Will Kuntze</p>
+<p align="right">Date: 10/11/2025</p>
+
 Une série de pages qui retracent l'histoire de John Lusk pendant la Seconde Guerre mondiale, sa mort inévitable et son importance pour la société canadienne.
 
 # Table des matières
